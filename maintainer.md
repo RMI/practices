@@ -2,7 +2,7 @@
 
 A network of active maintainers can help lead to a well-functioning software ecosystem. Maintainers are responsible for the health of a repository, which includes its functionality, documentation, and communication. Maintainers are also responsible for the health of the community around the repository, which includes the responsiveness of the maintainers, the clarity of the repository’s purpose, and the accessibility of the repository to new users.
 
-Below is the the RMI-PACTA Tech Team's guidance for what it means to be the maintainer of a repository. The guidance is not necessarily exhaustive, but should give an idea of what the expectations are of a maintainer.
+Below is the the RMI Tech Team's guidance for what it means to be the maintainer of a repository. The guidance is not necessarily exhaustive, but should give an idea of what the expectations are of a maintainer.
 
 ## Communication
 
