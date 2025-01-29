@@ -5,7 +5,7 @@ Pull requests (PRs) are a core mechanism for maintaining high-quality code and e
 The following guidelines outline best practices for submitting, reviewing, and merging pull requests in RMI repositories.
 
 ## General Requirements
-- Any repository that is expected to be seen or used by others **should have its main branch protected**, ensuring that all changes go through a pull request process.
+- Any repository that is expected to be seen or used by anyone other than the creator of the repository **should have its main branch protected**, ensuring that all changes go through a pull request process.
 - A pull request **should receive at least one review** from someone other than the submitter before merging.
 - Automated checks (e.g., CI/CD pipelines, linters, test suites) **should pass before a PR is approved**.
 
