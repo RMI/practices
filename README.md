@@ -6,6 +6,7 @@ We have agreed to these practices by consensus. They document heuristics, as det
 
 * [Git](git.md)
 * [Repository Maintainer Guidelines](maintainer.md)
+* [Pull Requests](pull_request.md)
 
 We also keep public documentation of interesting resources (best practices and otherwise) here:
 
