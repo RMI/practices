@@ -58,3 +58,6 @@ Reviewers play a crucial role in maintaining code quality while keeping the deve
 - **Refactoring PRs**: If a PR is purely a refactor (e.g., renaming, restructuring), it should be reviewed with an emphasis on maintainability and avoiding regressions.
 
 By following these best practices, we can maintain a high-quality, well-reviewed codebase while keeping the development workflow smooth and efficient.
+
+## References
+Google's [Code Reviewer's Guide](https://google.github.io/eng-practices/review/reviewer/) was consulted in writing this guidance.
