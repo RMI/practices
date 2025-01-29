@@ -23,7 +23,7 @@ This means, either standard SemVer, or the CalVer variant as described above. Th
 
 ## Other Repositories
 
-At this stage, no clear guidance is given for other `RMI-PACTA` repositories. In general, some consistent tagging system may be useful (e.g. tag relevant images with `date-built`, or `COP CH 2024`, or other useful user-facing tags), but the specifics of this are left to the discretion of the repository maintainers.
+At this stage, no clear guidance is given for other `RMI` repositories. In general, some consistent tagging system may be useful (e.g. tag relevant images with `date-built`, or `COP CH 2024`, or other useful user-facing tags), but the specifics of this are left to the discretion of the repository maintainers.
 
 ## References
 

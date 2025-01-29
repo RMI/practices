@@ -47,7 +47,7 @@ Like an email, commit messages have a subject and an optional body. The subject 
 
 See also:
 
--   [Example of a commit message](https://github.com/RMI-PACTA/resources/issues/74)
+-   [Example of a commit message](https://github.com/RMI/resources/issues/74)
 -   [Commit best practices](https://r-pkgs.org/git.html#commit-best-practices)
 
 ## Agree on a workflow
