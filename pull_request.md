@@ -26,7 +26,7 @@ Reviewers play a crucial role in maintaining code quality while keeping the deve
 
 ### Review Timing & Frequency
 - Developers should allocate one dedicated time block per day for code review.
-- At the same time, developers are not expected to be reviewing PRs continuously throughout the day (i.e. Submitters should plan for a 24hr turn-around from PR to merge).
+- At the same time, developers are not expected to be reviewing PRs continuously throughout the day (i.e. Submitters should plan for a 24hr turn-around from PR to review).
 
 ### Approval Criteria
 - PRs should be approved when they definitely improve the overall health of the repository, even if they are not perfect.
