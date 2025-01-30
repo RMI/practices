@@ -50,7 +50,7 @@ Reviewers play a crucial role in maintaining code quality while keeping the deve
   - ✅ At least one approval from a non-submitter.
   - ✅ All required automated checks passing.
   - ✅ Any requested changes addressed.
-- "Squash and merge" is recommended to keep the commit history clean, unless there’s a good reason to preserve multiple commits.
+- The [squash and merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges#squash-and-merge-your-commits) strategy is recommended to keep the commit history clean, unless there’s a good reason to preserve multiple commits.
 - The PR author is responsible for merging their own PR once it meets all requirements.
 
 ## Additional Considerations
