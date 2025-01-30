@@ -43,7 +43,7 @@ Reviewers play a crucial role in maintaining code quality while keeping the deve
 ### Effective Review Comments
 - Be Specific: Instead of “this needs improvement,” say “Consider using a named constant instead of a magic number here.”
 - Be Constructive: Focus on helping the author improve their code rather than just pointing out mistakes.
-- Balance Perfection vs. Progress: Not every PR needs to be flawless, but it should meet quality standards and not introduce technical debt.
+- Balance Perfection vs. Progress: Not every PR needs to be flawless, but it should meet quality standards and introduce minimal technical debt.
 
 ## Merging a Pull Request
 - PRs should only be merged when they have:
