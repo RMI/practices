@@ -52,6 +52,7 @@ Reviewers play a crucial role in maintaining code quality while keeping the deve
   - ✅ Any requested changes addressed.
 - The [squash and merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges#squash-and-merge-your-commits) strategy is recommended to keep the commit history clean, unless there’s a good reason to preserve multiple commits.
 - The PR author is responsible for merging their own PR once it meets all requirements.
+- Branches should be deleted after merging to keep the repository free of stale branches.
 
 ## Additional Considerations
 - **Emergency Fixes**: In rare cases, urgent fixes (hot-fixes) may be merged with an expedited review process. This should be an exception, not the norm.
