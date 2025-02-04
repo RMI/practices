@@ -36,7 +36,7 @@ Reviewers play a crucial role in maintaining code quality while keeping the deve
 ### Providing Clear Feedback
 - Reviews must specify an explicit status:
   - ✅ **Approval** – The PR is good to merge.
-  - 🔄 **Requested Changes** – Specific identified improvements are required before merging.
+  - 🔄 **Requested Changes** – Specifically identified improvements are required before merging.
   - ❌ **Close Recommendation** – The PR should not be merged (e.g., if it's redundant, out of scope, or fundamentally flawed).
 - "NIT" (nit-picky) or "NB" (non-blocking) comments do not constitute a full review. If a reviewer provides only nits, they should still approve the PR.
 
