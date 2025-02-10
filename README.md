@@ -5,6 +5,7 @@ Here, we document how we develop software at RMI, including social and technical
 We have agreed to these practices by consensus. They document heuristics, as detailed instructions may never cover all scenarios. We focus on _what_ to do and _why_, and only recommend optional resources about _how_ to do it. We realize there may be times when you can not achieve all these practices. In those cases, it's nice to let others know, e.g. in a commit description or a PR comment, how or why some of these guidelines could not be met.
 
 * [Git](git.md)
+* [Pull Requests](pull_request.md)
 * [Repository Maintainer Guidelines](maintainer.md)
 * [Versioning](version.md)
 
