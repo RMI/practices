@@ -19,15 +19,16 @@ team is involved in. For a Word Doc version of this template, follow [this link]
 
 ## Problem Description
 
-*Describe what problem/capability gap that the proposing team currently has. This should be just a few sentences describing what is “missing” from the team’s perspective and why that is a problem. Please do not focus on any potential solutions here.* 
+*Describe the problem/capability gap that has been identified. This should be no more than a paragraph or two describing the current state of affairs and why it is a problem for a group of users. Please do not focus on any potential solutions here.* 
 
 ## Background/Current State
 
-*Please describe and/or link to any current documentation, code, current work, etc. that would give the SPD team the context needed to better understand the problem description and the relevant domain knowledge needed to understand the problem*
+*Please describe and/or link to any current documentation, code, current work, etc. that would give the reader of this document the context needed to better understand the problem description and the relevant domain knowledge needed to understand the problem*
 
 ## Goals & Non-Goals
 
-*What are the two or three goals you’re aiming to achieve? And what are things that would be great to have but are not a focus (yet)? E.g., goal: allow governments to understand emissions at company level and non-goal: create a revenue generating consumer-app showing emissions*
+*What are the two or three goals we want to achieve with this product work? And what are things that would be great to have but are not a focus (yet)?*<br> 
+*E.g. goal: allow governments to understand emissions at company level and non-goal: create a revenue generating consumer-app showing emissions*
 
 ## Impact
 
@@ -71,7 +72,7 @@ team is involved in. For a Word Doc version of this template, follow [this link]
 
 *What would a roadmap of future improvements look like for this product if there was additional funding? Are there any additional capabilities that we might want to investigate and explore?*
 
-## Post-deliverable maintenance & Sunsetting 
+## Post-Deliverable Maintenance & Sunsetting 
 
 *What is the maintenance plan for this project once primary work is completed? Is SPD expected to own any solution and just provide access to the tool? Is SPD expected to provide ongoing support if there are any bugs/future issues? What is the plan to sunset this project?*
 
