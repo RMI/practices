@@ -27,8 +27,10 @@ team is involved in. For a Word Doc version of this template, follow [this link]
 
 ## Goals & Non-Goals
 
-*What are the two or three goals we want to achieve with this product work? And what are things that would be great to have but are not a focus (yet)?*<br> 
-*E.g. goal: allow governments to understand emissions at company level and non-goal: create a revenue generating consumer-app showing emissions*
+* *What are the two or three goals we want to achieve with this product work?*
+  * *e.g. **goal:** Allow governments to understand emissions at company level* 
+* *What are things that would be great to have but are not a focus (yet)?*
+  * *e.g. **non-goal:** Create a revenue generating consumer-app showing emissions*
 
 ## Impact
 

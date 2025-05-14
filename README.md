@@ -8,6 +8,7 @@ We have agreed to these practices by consensus. They document heuristics, as det
 * [Pull Requests](pull_request.md)
 * [Repository Maintainer Guidelines](maintainer.md)
 * [Versioning](version.md)
+* [PRD Template](prd_template.md)
 
 We also keep public documentation of interesting resources (best practices and otherwise) here:
 
