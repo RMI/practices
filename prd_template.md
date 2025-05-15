@@ -14,7 +14,7 @@ team is involved in. For a Word Doc version of this template, follow [this link]
 |-----------------------|--------------------------------|
 | Assigned SPD PM:      |                                |
 | Document Created:     |                                |
-| Document Las Updated: |                                |
+| Document Last Updated: |                                |
 | Document Status:      | \[Draft, In Review, Approved\] |
 
 ## Problem Description
