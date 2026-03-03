@@ -3,7 +3,7 @@
 # @jdhoffa will be requested for review when someone opens 
 # a pull request.
 *       @jdhoffa
-# The RMI-PATA developer team should be code-owners of all 
-# `*.md` files except for `README.md`.
-*.md @AlexAxthelm @cjyetman @jacobvjk @jdhoffa @MonikaFu
-README.md @jdhoffa
+
+# Request review from the SPD team for policy and process docs.
+/policy/** @RMI/spd
+/process/** @RMI/spd
