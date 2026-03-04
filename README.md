@@ -41,4 +41,4 @@ This guidance is for all contributors. Repository maintainers are accountable fo
 Legacy root paths (`git.md`, `pull_request.md`, `maintainer.md`, `version.md`, `prd_template.md`) are preserved as compatibility links to their new locations.
 
 ## Related Resources
-- [Resources](https://rmi-pacta.github.io/resources/)
+- [Resources](https://rmi.github.io/resources/)
