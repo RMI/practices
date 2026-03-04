@@ -5,5 +5,5 @@
 *       @jdhoffa
 
 # Request review from the SPD team for policy and process docs.
-/policy/** @RMI/spd
+/principles/** @RMI/spd
 /process/** @RMI/spd
