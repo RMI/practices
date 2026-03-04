@@ -7,17 +7,12 @@ This repository contains org-level software engineering practices for RMI. It de
 - Shared templates and reference documents.
 - Cross-cutting expectations for maintainers and contributors.
 
-## How To Adopt (Maintainer Checklist)
-1. Review [Documentation Index](INDEX.md) and identify docs relevant to your repository.
-2. Align repository settings with [Pull Requests](process/pull_request.md) guidance (protected branch, required checks, reviewer expectations).
-3. Align commit and branching behavior with [Git](process/git.md).
-4. Establish and communicate your repository’s versioning and release approach using [Software Versioning](process/version.md).
-5. If your team is starting new work, use the [PRD Template](templates/prd_template.md).
-6. Document any approved deviations from org-level guidance in your repository `README`.
+## How To Adopt
+This guidance is for all contributors. Repository maintainers are accountable for operationalizing it in each repository.
+
+- Start with the Table of Contents below to find the guidance most relevant to your work.
 
 ## Table of Contents
-- [Documentation Index](INDEX.md)
-
 ### Principles
 - [Repository Maintainer Guidelines](principles/maintainer.md)
 
