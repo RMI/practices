@@ -1,4 +1,6 @@
 # What Does It Mean to be the Maintainer of a Repository?
+blah blah blah
+
 
 A network of active maintainers can help lead to a well-functioning software ecosystem. Maintainers are responsible for the health of a repository, which includes its functionality, documentation, and communication. Maintainers are also responsible for the health of the community around the repository, which includes the responsiveness of the maintainers, the clarity of the repository’s purpose, and the accessibility of the repository to new users.
 
