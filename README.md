@@ -7,12 +7,6 @@ This repository contains org-level software engineering practices for RMI. It de
 - Shared templates and reference documents.
 - Cross-cutting expectations for maintainers and contributors.
 
-## What Lives in Each Product Repository
-- Product-specific architecture and ADRs.
-- Product-specific runbooks and operational procedures.
-- Product-specific issue triage labels, release cadence, and local workflow exceptions.
-- Product-specific onboarding, setup, and contribution details.
-
 ## How To Adopt (Maintainer Checklist)
 1. Review [Documentation Index](INDEX.md) and identify docs relevant to your repository.
 2. Align repository settings with [Pull Requests](process/pull_request.md) guidance (protected branch, required checks, reviewer expectations).
