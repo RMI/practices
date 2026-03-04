@@ -1,15 +1,44 @@
 # practices
 
-Here, we document how we develop software at RMI, including social and technical aspects around several themes. It should help guide our actions, and understand what to expect from our colleagues and what they expect from us. Wherever possible, we refer to the source of information that defines a "best practice". Anecdotes and personal experience have value, but we prefer evidence from research, books, and large and mature communities of practice.
+This repository contains org-level software engineering practices for RMI. It defines shared principles, process expectations, architecture guidance, security expectations, and reusable templates.
 
-We have agreed to these practices by consensus. They document heuristics, as detailed instructions may never cover all scenarios. We focus on _what_ to do and _why_, and only recommend optional resources about _how_ to do it. We realize there may be times when you can not achieve all these practices. In those cases, it's nice to let others know, e.g. in a commit description or a PR comment, how or why some of these guidelines could not be met.
+## What Lives Here
+- Organization-wide standards and guidance that apply across repositories.
+- Shared templates and reference documents.
+- Cross-cutting expectations for maintainers and contributors.
 
-* [Git](git.md)
-* [Pull Requests](pull_request.md)
-* [Repository Maintainer Guidelines](maintainer.md)
-* [Versioning](version.md)
-* [PRD Template](prd_template.md)
+## How To Adopt
+This guidance is for all contributors. Repository maintainers are accountable for operationalizing it in each repository.
 
-We also keep public documentation of interesting resources (best practices and otherwise) here:
+- Start with the Table of Contents below to find the guidance most relevant to your work.
 
-* [Resources](https://rmi-pacta.github.io/resources/)
+## Table of Contents
+### Principles
+- [Repository Maintainer Guidelines](principles/maintainer.md)
+
+### Process
+- [Git](process/git.md)
+- [Pull Requests](process/pull_request.md)
+- [Software Versioning](process/version.md)
+
+### Architecture
+- API design principles (planned)
+- Testing philosophy (planned)
+- Observability guidance (planned)
+
+### Security
+- Secrets handling (planned)
+- Vulnerability disclosure expectations (planned)
+
+### Templates
+- [PRD Template](templates/prd_template.md)
+
+### Meta
+- Maturity model (planned)
+- Glossary (planned)
+
+## Compatibility Notes
+Legacy root paths (`git.md`, `pull_request.md`, `maintainer.md`, `version.md`, `prd_template.md`) are preserved as compatibility links to their new locations.
+
+## Related Resources
+- [Resources](https://rmi-pacta.github.io/resources/)
