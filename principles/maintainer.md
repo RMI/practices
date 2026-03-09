@@ -26,7 +26,7 @@ Maintainers should be particularly cautious about changes to repositories that a
 
 ## Versioning and Release
 
-Maintainers are responsible for communicating overall application version through some informative version identifier. See [Software Versioning](version.md) for more information.
+Maintainers are responsible for communicating overall application version through some informative version identifier. See [Software Versioning](../process/version.md) for more information.
 
 ## Communication of Changes
 
@@ -39,3 +39,14 @@ We considered aspects of the [ROpenSci Maintainer Definition](https://ropensci.o
 ## How
 
 - The maintainer of a repository can be optionally communicated to the public by using GitHub's [`CODEOWNERS` feature](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners).
+
+## Maintainer Adoption Checklist
+
+Use this checklist to operationalize these practices in your repository:
+
+1. Review the [practices README](../README.md) and use its Table of Contents to identify docs relevant to your repository.
+2. Align repository settings with [Pull Requests](../process/pull_request.md) guidance (protected branch, required checks, reviewer expectations).
+3. Align commit and branching behavior with [Git](../process/git.md).
+4. Establish and communicate your repository's versioning and release approach using [Software Versioning](../process/version.md).
+5. If your team is starting new work, use the [PRD Template](../templates/prd_template.md).
+6. Document any approved deviations from org-level guidance in your repository `README`.
