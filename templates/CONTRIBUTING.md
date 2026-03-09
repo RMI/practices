@@ -9,10 +9,10 @@ This guide covers how to open issues and pull requests. For local setup, command
 Contributors should understand the changes they submit.
 
 If you open a change, you should be able to explain:
-- what it does,
-- why it is correct,
-- what tradeoffs it introduces,
-- and how it was tested.
+- what it does
+- why it is correct
+- what tradeoffs it introduces
+- and how it was tested
 
 Using AI tools is allowed. Submitting AI-generated changes you do not understand is not.
 
