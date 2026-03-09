@@ -23,9 +23,9 @@ AI assistance does not change quality standards.
 - Keep AI-assisted PRs small and focused on a single concern.
 - Split large AI-generated output into multiple PRs that can be reviewed independently.
 - In your PR description, call out:
-  - what AI was used for,
-  - what you verified manually,
-  - and what tests validate the change.
+  - what AI was used for
+  - what you verified manually
+  - and what tests validate the change
 
 ## How to Contribute
 
