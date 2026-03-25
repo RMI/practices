@@ -30,7 +30,7 @@ Strong agile practice reduces delivery risk by shortening feedback loops. It hel
 - Engineering Team: estimates, commits, builds, tests, and demos.
 - Stakeholders / SMEs: provide feedback and domain context.
 
-These roles are not always separate people.
+These roles are not always separate people, but it is important that the PM/PO is distinct from the development/engineering team, so that the project stays focused on product outcomes, rather than technical ones
 
 ## Delivery Flow
 
