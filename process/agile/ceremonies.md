@@ -4,13 +4,13 @@ This document defines the sprint cadence. Teams may adapt the exact format, but 
 
 ## Suggested Cadence
 
-| Ceremony | Frequency | Duration | Primary Output |
-| --- | --- | --- | --- |
-| Sprint Planning | Every sprint | 1.5 to 2 hours | Sprint goal and committed work |
-| Daily Scrum | Daily | 10 to 15 minutes | Shared plan and visible blockers |
-| Backlog Refinement | Weekly | 30 to 60 minutes | Ready backlog |
-| Sprint Review | End of sprint | 1 to 2 hours | Feedback and accepted work |
-| Retrospective | End of sprint | 30 to 60 minutes | One or two improvements |
+| Ceremony | Frequency | Duration | Participants | Primary Output |
+| --- | --- | --- | --- | --- |
+| Sprint Planning | Every sprint | 1.5 to 2 hours | Core team, product owner | Sprint goal and committed work |
+| Daily Scrum | Daily | 10 to 15 minutes | Core team | Shared plan and visible blockers |
+| Backlog Refinement | Weekly | 30 to 60 minutes | Product owner, Core team, subject matter experts as needed | Ready backlog |
+| Sprint Review | End of sprint | 1 to 2 hours | Core team, product owner, stakeholders | Feedback and accepted work |
+| Retrospective | End of sprint | 30 to 60 minutes | Core team | One or two improvements |
 
 Two-week sprints are a good default, but teams may adapt based on project size and learning speed.
 
