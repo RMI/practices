@@ -8,7 +8,7 @@ This document defines the sprint cadence. Teams may adapt the exact format, but 
 | --- | --- | --- | --- | --- |
 | Sprint Planning | Every sprint | 1.5 to 2 hours | Core team, product owner | Sprint goal and committed work |
 | Daily Scrum | Daily | 10 min. OR Async in Shared Channel | Core team | Shared plan and blocker visibility |
-| Backlog Refinement | Weekly | 30 to 60 minutes | Product owner, Core team, subject matter experts as needed | Ready backlog |
+| Backlog Refinement | Weekly | 30 to 60 minutes | Product owner, subject matter experts or engineers as required | Ready backlog |
 | Sprint Review | End of sprint | 1 to 2 hours | Core team, product owner, stakeholders | Feedback and accepted work |
 | Retrospective | End of sprint | 30 to 60 minutes | Core team | One or two improvements |
 
