@@ -30,7 +30,7 @@ Strong agile practice reduces delivery risk by shortening feedback loops. It hel
 - Engineering Team: estimates, commits, builds, tests, and demos.
 - Stakeholders / SMEs: provide feedback and domain context.
 
-These roles are not always separate people, but it is important that the PM/PO is distinct from the development/engineering team, so that the project stays focused on product outcomes, rather than technical ones
+These roles are not always separate people, but it is important that the PM/PO is distinct from the development/engineering team, so that the project stays focused on product outcomes, rather than technical ones. At RMI, the "scrum lead" will almost alway be either the PM/PO or Tech Lead.
 
 ## Delivery Flow
 
@@ -73,7 +73,7 @@ A ticket is ready when it has:
 - known dependencies, blockers or constraints
 - a size that fits inside a single sprint
 
-If the ticket is too large to reason about, split it before bringing it into the sprint.
+If the ticket is too large to close entirely in a single sprint (e.g. for code-work, closed with a single right-sized PR), then the ticket should be split before bringing it into sprint.
 
 ## Working Agreements
 

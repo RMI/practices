@@ -68,6 +68,7 @@ Examples:
 - setting too many OKRs at once
 - measuring activity instead of impact
 - never using OKRs to make prioritization decisions
+- lack of ambition; they aren't vanity metrics
 
 ## Practical Rule
 
