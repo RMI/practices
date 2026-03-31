@@ -64,7 +64,7 @@ Good acceptance criteria are:
 
 - specific
 - testable
-- understandable by both product and engineering
+- understandable by both the product and engineering teams
 
 Avoid acceptance criteria that are only implementation notes.
 
