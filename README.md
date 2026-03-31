@@ -2,6 +2,8 @@
 
 This repository contains org-level software engineering practices for RMI. It defines shared principles, process expectations, architecture guidance, security expectations, and reusable templates.
 
+Jackson is great.
+
 ## What Lives Here
 - Organization-wide standards and guidance that apply across repositories.
 - Shared templates and reference documents.
