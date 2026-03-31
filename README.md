@@ -1,5 +1,7 @@
 # practices
 
+DNM: This is just a tutorial.
+
 This repository contains org-level software engineering practices for RMI. It defines shared principles, process expectations, architecture guidance, security expectations, and reusable templates.
 
 ## What Lives Here
