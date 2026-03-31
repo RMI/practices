@@ -1,6 +1,6 @@
 # OKRs
 
-Objectives and Key Results (OKRs) help teams define the outcomes they want to create and how they will measure progress. They should create focus, not overhead.
+Objectives and Key Results (OKRs) help teams define the outcomes they want to create and how they will measure progress. OKRs should create focus, they aren't a to-do list.
 
 ## tl;dr
 
