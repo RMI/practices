@@ -1,6 +1,6 @@
 # Agile Overview
 
-Agile is a way to deliver better products through small increments, fast feedback, and clear ownership. These concepts work regardless of if a team is using post-it notes, GitHub issues, Linear or Jira.
+Agile is a way to deliver better products through small increments, fast feedback, and clear ownership. These concepts work regardless of whether a team is using post-it notes, GitHub issues, Linear or Jira.
 
 ## tl;dr
 
