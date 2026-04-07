@@ -20,6 +20,10 @@ This guidance is for all contributors. Repository maintainers are accountable fo
 - [Git](process/git.md)
 - [Pull Requests](process/pull_request.md)
 - [Software Versioning](process/version.md)
+- [OKRs](process/okrs.md)
+- [Agile Overview](process/agile/overview.md)
+- [Agile Ceremonies](process/agile/ceremonies.md)
+- [Jira Runbook](process/agile/jira.md)
 
 ### Architecture
 - API design principles (planned)
