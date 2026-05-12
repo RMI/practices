@@ -4,9 +4,11 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+An in-depth paragraph about your project and overview of use. To wit: This is a template that can be used as a starter for a README for any project. Remove any sections that aren't relevant, and add anything you need that isn't present in the template. For example you may want to add a [workflow status badge](https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge)
 
 ## Getting Started
+
+If in doubt go small and just add a description. Any README is infinitely better than nothing.
 
 ### Dependencies
 
