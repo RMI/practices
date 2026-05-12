@@ -1,4 +1,4 @@
-# Project Title
+# README template [Project Title]
 
 Simple overview of use/purpose.
 
