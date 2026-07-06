@@ -22,6 +22,7 @@ This guidance is for all contributors. Repository maintainers are accountable fo
 - [Software Versioning](process/version.md)
 
 ### Architecture
+- [Default Web Application Stack](architecture/web_stack.md)
 - API design principles (planned)
 - Testing philosophy (planned)
 - Observability guidance (planned)
