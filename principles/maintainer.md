@@ -26,7 +26,7 @@ Maintainers should be particularly cautious about changes to repositories that a
 
 ## Versioning and Release
 
-Maintainers are responsible for communicating overall application version through some informative version identifier. See [Software Versioning](version.md) for more information.
+Maintainers are responsible for communicating overall application version through some informative version identifier. See [Software Versioning](../process/version.md) for more information.
 
 ## Communication of Changes
 
