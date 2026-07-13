@@ -26,6 +26,7 @@ This guidance is for all contributors. Repository maintainers are accountable fo
 - [Jira Runbook](process/agile/jira.md)
 
 ### Architecture
+- [Default Web Application Stack](architecture/web_stack.md)
 - API design principles (planned)
 - Testing philosophy (planned)
 - Observability guidance (planned)
