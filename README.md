@@ -12,6 +12,12 @@ This guidance is for all contributors. Repository maintainers are accountable fo
 
 - Start with the Table of Contents below to find the guidance most relevant to your work.
 
+## How This Repo Relates to `.github`
+
+- This repo is the source of truth for guidance: the "why" and "how" behind our engineering standards.
+- `.github` is the operational surface: templates and defaults GitHub picks up automatically when a repo doesn't override them.
+
+
 ## Table of Contents
 ### Principles
 - [Repository Maintainer Guidelines](principles/maintainer.md)
