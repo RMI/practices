@@ -1,0 +1,16 @@
+# robots.txt for public, indexable applications.
+#
+# robots.txt is publicly readable and is not access control. Don't list
+# paths here that are sensitive; protect them with authentication instead.
+
+User-agent: *
+Disallow: /api/
+Disallow: /search
+
+# AI crawlers are allowed by default under the rule above, consistent with
+# RMI's llms.txt guidance. To opt specific agents out, add groups like:
+# User-agent: GPTBot
+# Disallow: /
+
+# Absolute URL to the application's canonical sitemap.
+Sitemap: https://example.rmi.org/sitemap.xml

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Example only. Real sitemaps should be generated at build or request time.
+  - <loc> must exactly match each page's canonical URL (scheme, host, trailing slash).
+  - Include only canonical, indexable, 200-status pages.
+  - <lastmod> should reflect meaningful content changes, not deploy time.
+  - changefreq and priority are omitted intentionally; major search engines ignore them.
+  - Max 50,000 URLs / 50 MB per file; use a sitemap index beyond that.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://example.rmi.org/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
+
+  <url>
+    <loc>https://example.rmi.org/contact/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+
+  <url>
+    <loc>https://example.rmi.org/about/</loc>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+
+</urlset>
