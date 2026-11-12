@@ -2,6 +2,16 @@
 
 It is the machine's world, and we just live in it. So we must cater to their needs. Adding this content to all or most webapps, as appropriate, will make them more findable, and more useful to agents, so ultimately more useful also to the people who use agents.
 
+## tl;dr
+- [ ] Got Google Analytics?
+- [ ] Pages have the right metadata?
+- [ ] Pages have unique titles?
+- [ ] Pages have canonical URLs, and the accompanying tag?
+- [ ] Page content is hierarchical (html heading tags, etc)?
+- [ ] Site has 404 and 500 error pages?
+- [ ] Site has a robots.txt and llms.txt?
+- [ ] Site has a sitemap?
+
 Templates for most of these live in [`/templates/web`](/templates/web). For how to use them and common pitfalls, see:
 
 - [Metadata](metadata.md): page titles, descriptions, Open Graph, icons
