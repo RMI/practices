@@ -1,0 +1,13 @@
+# robots.txt for non-production environments (dev, staging, preview).
+#
+# This blocks compliant crawlers but is NOT access control, and disallowed
+# URLs can still be indexed if linked from elsewhere. Non-production
+# environments should also:
+#   - require authentication or IP allowlisting, and/or
+#   - send `X-Robots-Tag: noindex, nofollow` on every response.
+#
+# Select this file or robots.public.txt by environment config (build step or
+# server route) so this one can never ship to production.
+
+User-agent: *
+Disallow: /

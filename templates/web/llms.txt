@@ -1,0 +1,25 @@
+# Example RMI Application
+
+> One or two sentences on what the application does, who it is for, and what
+> data or tools it provides. This is the most important line in the file.
+
+This application is published by RMI. Data should be attributed to
+"RMI, Example Application (year)". See the methodology for data sources,
+limitations, and appropriate interpretation. Figures are estimates and
+should not be presented as official statistics.
+
+## Documentation
+
+- [About](https://example.rmi.org/about): What the application does and who maintains it.
+- [Methodology](https://example.rmi.org/methodology): Data sources, assumptions, and known limitations.
+- [Data](https://example.rmi.org/data): Available datasets, formats, and update frequency.
+
+## API
+
+- [API documentation](https://example.rmi.org/api/docs): Endpoints, authentication, and rate limits.
+- [OpenAPI specification](https://example.rmi.org/api/openapi.json): Machine-readable API description.
+
+## Optional
+
+- [Terms of use](https://example.rmi.org/terms): Licensing and acceptable use.
+- [Changelog](https://example.rmi.org/changelog): Release history.

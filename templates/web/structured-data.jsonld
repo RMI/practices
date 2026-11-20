@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://example.rmi.org/#website",
+      "url": "https://example.rmi.org/",
+      "name": "Example RMI Application",
+      "description": "A short description of the application.",
+      "publisher": {
+        "@id": "https://rmi.org/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://rmi.org/#organization",
+      "name": "RMI",
+      "url": "https://rmi.org/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+# Example security and privacy headers for a public web application.
+# Syntax varies by hosting platform (e.g. Netlify `_headers`, Vercel
+# `vercel.json`, nginx `add_header`). Treat this file as guidance, not as a
+# drop-in configuration file.
+#
+# Review every value before deployment, especially Content-Security-Policy
+# and Permissions-Policy.
+
+# --- Transport -------------------------------------------------------------
+# One year. Only add `preload` after confirming every subdomain serves HTTPS;
+# preload-list removal takes months.
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+# --- Content handling ------------------------------------------------------
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Cross-Origin-Opener-Policy: same-origin
+
+# --- Browser features ------------------------------------------------------
+# Deny features the application does not use. Add `self` only where needed,
+# e.g. geolocation=(self).
+Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()
+
+# --- Content Security Policy ----------------------------------------------
+# Start with Content-Security-Policy-Report-Only, watch for violations
+# (analytics, fonts, map tiles, embeds), then switch to enforcing.
+# Avoid 'unsafe-inline' and 'unsafe-eval'; prefer nonces or hashes.
+# This baseline blocks Google Analytics. If the app uses the gtag snippet from
+# metadata.html, add Google's domains to script-src, connect-src, and img-src
+# (see Google's CSP guide for the current list) and put a nonce on the inline
+# script.
+Content-Security-Policy: default-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests
+
+# frame-ancestors supersedes X-Frame-Options in modern browsers. Only add
+# X-Frame-Options if legacy browser support is required.
+# X-Frame-Options: DENY
+
+# --- Indexing --------------------------------------------------------------
+# Use on non-production environments, and on non-HTML resources (PDFs,
+# exports, API responses) that should not appear in search results.
+# X-Robots-Tag: noindex, nofollow

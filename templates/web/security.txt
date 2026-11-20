@@ -1,0 +1,13 @@
+# Served at https://example.rmi.org/.well-known/security.txt (RFC 9116).
+# Update Expires at least annually; set a calendar reminder when deploying.
+# Some of the values in this file don't exist yet; check them before using.
+
+Contact: mailto:spd@rmi.org
+Expires: 2027-11-01T00:00:00.000Z
+Policy: https://rmi.org/security-policy/
+Canonical: https://example.rmi.org/.well-known/security.txt
+Preferred-Languages: en, es
+
+# Optional:
+# Encryption: https://rmi.org/.well-known/pgp-key.txt
+# Acknowledgments: https://rmi.org/security-acknowledgments/
